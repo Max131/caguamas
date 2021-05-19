@@ -1,0 +1,7 @@
+.hero{
+  background: gold url('../images/beer-backgrond.webp') no-repeat fixed center/cover;
+}
+img.is-shadowed{
+  box-shadow: 4px 4px 15px gold,
+              -4px -4px 15px darkslategray;
+}
